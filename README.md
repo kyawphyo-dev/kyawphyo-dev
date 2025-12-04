@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Kyaw Phyo Win
 
-<!--
-**kyawphyo-dev/kyawphyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack Web Developer  
+🔧 Tech Stack: **React • Next.js • Laravel • TypeScript**  
+🌱 Currently improving my skills in modern web development  
+🚀 Building real-world projects and learning every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- **Frontend:** React, Next.js, TypeScript, JavaScript  
+- **Backend:** JavaScript, Laravel, PHP  
+- **Database:** MySQL  
+- **Others:** Git, GitHub, REST APIs  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 🌟 About Me
+- 🎓 BE.IT Graduate  
+- 🔍 Interested in Web Development, Cloud, and AI 
+- ✨ Passionate about building clean, user-friendly interfaces  
+- 📬 Open to collaboration and learning opportunities  
+
+---
+
+### 📫 Contact
+- **Email:** kyawphyowin242965@gmail.com 
