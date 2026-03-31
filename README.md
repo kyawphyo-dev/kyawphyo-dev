@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kyaw Phyo Win
 
-💻 Full-stack Web Developer  
+💻 Aspiring Full-Stack Web Developer  
 🔧 Tech Stack: **React • Next.js • Laravel • TypeScript**  
 🌱 Currently improving my skills in modern web development  
 🚀 Building real-world projects and learning every day  
@@ -8,10 +8,10 @@
 ---
 
 ### 🛠️ Tech & Tools
-- **Frontend:** React, Next.js, TypeScript, JavaScript  
-- **Backend:** JavaScript, Laravel, PHP  
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, JavaScript  
+- **Backend:** Node.js, Laravel, PHP  
 - **Database:** MySQL  
-- **Others:** Git, GitHub, REST APIs  
+- **Others:** Git, GitHub, REST APIs, Firebase  
 
 ---
 
@@ -24,12 +24,13 @@
 ---
 
 ### 🌟 About Me
-- 🎓 BE.IT Graduate  
-- 🔍 Interested in Web Development, Cloud, and AI 
-- ✨ Passionate about building clean, user-friendly interfaces  
-- 📬 Open to collaboration and learning opportunities  
+- 🎓 Bachelor of Engineering in Information Technology 
+- 🔍 Interested in Web Development, Cloud Computing, and AI  
+- ✨ Passionate about building clean and user-friendly interfaces  
+- 📚 Continuously learning and improving every day  
+- 🤝 Open to collaboration and new opportunities  
 
 ---
 
 ### 📫 Contact
-- **Email:** kyawphyowin242965@gmail.com 
+- 📧 Email: kyawphyowin242965@gmail.com  
