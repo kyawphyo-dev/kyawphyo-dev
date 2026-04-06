@@ -17,9 +17,15 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+/>
 
 ---
 
