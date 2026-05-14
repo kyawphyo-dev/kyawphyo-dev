@@ -10,7 +10,7 @@
 ### 🛠️ Tech & Tools
 - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, JavaScript  
 - **Backend:** Node.js, Laravel, PHP  
-- **Database:** MySQL  
+- **Database:** MySQL, Mongodb Atlas 
 - **Others:** Git, GitHub, REST APIs, Firebase  
 
 ---
