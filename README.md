@@ -1,5 +1,3 @@
-Here is a clean version using mainly the GitHub Profile Trophy section.
-
 # 👋 Hi, I'm Kyaw Phyo Win
 
 💻 Aspiring Full-Stack Web Developer
@@ -9,7 +7,7 @@ Here is a clean version using mainly the GitHub Profile Trophy section.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
 ### Frontend
 
@@ -31,7 +29,7 @@ Here is a clean version using mainly the GitHub Profile Trophy section.
 * MySQL
 * MongoDB Atlas
 
-### Tools
+### Others
 
 * Git
 * GitHub
@@ -40,15 +38,13 @@ Here is a clean version using mainly the GitHub Profile Trophy section.
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kyawphyo-dev\&theme=tokyonight\&row=1\&column=6\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kyawphyo-dev\&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=kyawphyo-dev\&theme=tokyonight\&margin-w=10)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawphyo-dev\&theme=tokyonight)
 
 ---
 
