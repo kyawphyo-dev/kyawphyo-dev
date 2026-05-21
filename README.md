@@ -1,34 +1,67 @@
-## 👋 Hi, I'm Kyaw Phyo Win
+Here is a clean version using mainly the GitHub Profile Trophy section.
 
-💻 Aspiring Full-Stack Web Developer  
-🔧 Tech Stack: **React • Next.js • Laravel • TypeScript**  
-🌱 Currently improving my skills in modern web development  
-🚀 Building real-world projects and learning every day  
+# 👋 Hi, I'm Kyaw Phyo Win
 
----
-
-### 🛠️ Tech & Tools
-- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, JavaScript  
-- **Backend:** Node.js, Laravel, PHP  
-- **Database:** MySQL, Mongodb Atlas 
-- **Others:** Git, GitHub, REST APIs, Firebase  
+💻 Aspiring Full-Stack Web Developer
+🔧 Tech Stack: **React • Next.js • Laravel • TypeScript**
+🌱 Currently improving my skills in modern web development
+🚀 Building real-world projects and learning every day
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight)
+### Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+* Bootstrap
+* JavaScript
+* TypeScript
+
+### Backend
+
+* Node.js
+* Laravel
+* PHP
+
+### Database
+
+* MySQL
+* MongoDB Atlas
+
+### Tools
+
+* Git
+* GitHub
+* REST APIs
+* Firebase
 
 ---
 
-### 🌟 About Me
-- 🎓 Bachelor of Engineering in Information Technology 
-- 🔍 Interested in Web Development, Cloud Computing, and AI  
-- ✨ Passionate about building clean and user-friendly interfaces  
-- 📚 Continuously learning and improving every day  
-- 🤝 Open to collaboration and new opportunities  
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyawphyo-dev\&theme=tokyonight\&row=1\&column=6\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📫 Contact
-- 📧 Email: kyawphyowin242965@gmail.com  
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kyawphyo-dev\&theme=tokyonight)
+
+---
+
+## 🌟 About Me
+
+* 🎓 Bachelor of Engineering in Information Technology
+* 🔍 Interested in Web Development, Cloud Computing, and AI
+* ✨ Passionate about building clean and user-friendly interfaces
+* 📚 Continuously learning and improving every day
+* 🤝 Open to collaboration and new opportunities
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [kyawphyowin242965@gmail.com](mailto:kyawphyowin242965@gmail.com)
