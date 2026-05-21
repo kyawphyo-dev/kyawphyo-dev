@@ -4,12 +4,22 @@
 🌱 Currently improving my skills in modern web development  
 🚀 Building real-world projects and learning every day  
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-teal-one-53.vercel.app/api?username=kyawphyo-dev\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-teal-one-53.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 
+<img
+ height="180em"
+ src="https://github-readme-stats-teal-one-53.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+ alt="Top Languages"
+/>
 
-![Top Languages](https://github-readme-stats-teal-one-53.vercel.app/api/top-langs/?username=kyawphyo-dev\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+</p>
 
 <p align="center">
   <img
@@ -17,6 +27,7 @@
     alt="GitHub Streak"
   />
 </p>
+
 
 
 
