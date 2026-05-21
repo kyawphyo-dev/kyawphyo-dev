@@ -1,31 +1,16 @@
 ## 👋 Hi, I'm Kyaw Phyo Win
 
-💻 Aspiring Full-Stack Web Developer  
-🔧 Tech Stack: **React • Next.js • Laravel • TypeScript**  
+💻 Junior Full-Stack Web Developer  
 🌱 Currently improving my skills in modern web development  
 🚀 Building real-world projects and learning every day  
 
----
-
-### 🛠️ Tech & Tools
-- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, JavaScript  
-- **Backend:** Node.js, Laravel, PHP  
-- **Database:** MySQL, Mongodb Atlas 
-- **Others:** Git, GitHub, REST APIs, Firebase  
-
----
-
 ### 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight"
-  alt="GitHub Status."
-/>
+![GitHub Stats](https://github-readme-stats-teal-one-53.vercel.app/api?username=kyawphyo-dev\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawphyo-dev&layout=compact&theme=tokyonight"
-  alt="Top Languages."
-/>
+
+![Top Languages](https://github-readme-stats-teal-one-53.vercel.app/api/top-langs/?username=kyawphyo-dev\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+
 
 ---
 
