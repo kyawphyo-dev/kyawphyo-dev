@@ -11,8 +11,13 @@
 
 ![Top Languages](https://github-readme-stats-teal-one-53.vercel.app/api/top-langs/?username=kyawphyo-dev\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
 
-<img src="https://streak-stats.demolab.com?user=kyawphyo-dev&theme=github-dark-dimmed](https://streak-stats.demolab.com?user=kyawphyo-dev&theme=github-dark-dimmed&border_radius=6)" alt="GitHub Streak" height="150" style="margin-left: 1rem;" />
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=kyawphyo-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 
 ---
