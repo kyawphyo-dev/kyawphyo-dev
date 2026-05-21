@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     height="180em"
     src="https://github-readme-stats-teal-one-53.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
@@ -19,17 +19,12 @@
  alt="Top Languages"
 />
 
-</p>
-
-<p align="center">
-  <img
+<img
     src="https://streak-stats.demolab.com?user=kyawphyo-dev&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
+
 </p>
-
-
-
 
 ---
 
