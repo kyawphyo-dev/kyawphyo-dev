@@ -6,12 +6,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img
     height="180em"
     src="https://github-readme-stats-teal-one-53.vercel.app/api?username=kyawphyo-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
-  />
+  /> -->
 
 <!-- <img
  height="180em"
